@@ -17,6 +17,8 @@ public class RegisterCreativeModeTabs {
             .displayItems((params, output) -> {
                 output.accept(RegisterItems.OCARINA);
                 output.accept(RegisterItems.ZELDAS_OCARINA);
+                output.accept(RegisterItems.EMPTY_SHEET);
+                output.accept(RegisterItems.CUSTOM_SHEET);
             })
             .build();
 

@@ -1,5 +1,7 @@
 {
   "itemGroup.ocarina_of_mine": "Ocarina Of Mine",
   "item.ocarina_of_mine.ocarina": "Ocarina",
-  "item.ocarina_of_mine.zeldas_ocarina": "Zelda's Ocarina"
+  "item.ocarina_of_mine.zeldas_ocarina": "Zelda's Ocarina",
+  "item.ocarina_of_mine.empty_sheet": "Empty Sheet",
+  "item.ocarina_of_mine.custom_sheet": "Custom Sheet"
 }
